@@ -113,16 +113,16 @@ bottom: 300px;
 }
 
 .motorcycle{
-  height: 25%;
-  width: 25%;
+  height: 15%;
+  width: 15%;
   float: left;
   margin-right: 30px;
 
 }
 
 .tennis {
-  height: 25%;
-  width: 25%;
+  height: 15%;
+  width: 15%;
   float: right;
   margin-left: 30px;
 }
